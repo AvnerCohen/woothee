@@ -71,3 +71,57 @@
   version: livedoor
   os: Mobile Transcoder
   category: mobilephone
+
+- target: 'Opera/9.80 (J2ME/MIDP; Opera Mini/4.5.40312/37.6334; U; en) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
+
+- target: 'Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/37.6334; U; en) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
+
+- target: 'Opera/9.80 (J2ME/MIDP; Opera Mini/4.5.40312/37.6334; U; id) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
+
+- target: 'Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/37.6334; U; en) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
+
+- target: 'Opera/9.80 (J2ME/MIDP; Opera Mini/8.0.35626/37.6334; U; en) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
+
+- target: 'Opera/9.80 (J2ME/MIDP; Opera Mini/8.0.35676/37.6334; U; en) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
+
+- target: 'Opera/9.80 (J2ME/MIDP; Opera Mini/4.5.40312/37.6334; U; es) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
+
+- target: 'Opera/9.80 (J2ME/MIDP; Opera Mini/4.5.33867/37.6334; U; en) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
+
+- target: 'Opera/9.80 (Series 60; Opera Mini/7.1.32444/37.6334; U; en) Presto/2.12.423 Version/12.16'
+  name: Opera Mini
+  version: 9.80
+  os: UNKNOWN
+  category: mobilephone
